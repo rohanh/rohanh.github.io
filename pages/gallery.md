@@ -3,7 +3,7 @@ layout: page
 title: Gallery
 subtitle: Photos.Collection
 permalink: /gallery/
-gallery_path: "assets/img/pexes"
+gallery_path: "assets/img/GalleryPics"
 tags: [Gallery, Photo]
 ---
 
