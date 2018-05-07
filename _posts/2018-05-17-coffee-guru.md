@@ -7,7 +7,8 @@ excerpt_separator: <!--more-->
 ---
 Post about Coffee Guide
 <!--more-->
-Post about Coffee GuidePost about Coffee Guide kefj 
+
+<b>Post about Coffee Guide</b>Post about Coffee Guide kefj 
 fds f
 ds f
 
