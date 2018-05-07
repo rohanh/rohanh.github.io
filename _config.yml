@@ -19,7 +19,8 @@ theme_settings:
      <p>Hi Welcome to my little space on the internet. This blog contains</p>
   header_text_feature_image: assets/img/header.jpeg
   footer_text: >
-   © 2012-2018 RohanH.Com ALL RIGHTS RESERVED Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   <i>© 2012-2018 rohanh.com ALL RIGHTS RESERVED and Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a></i>
+
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
