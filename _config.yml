@@ -17,7 +17,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Hi Welcome to my little space on the internet. This blog contains</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+  header_text_feature_image: assets/img/header.jpeg
   footer_text: >
    Copyrighted by RohanH 2018. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
