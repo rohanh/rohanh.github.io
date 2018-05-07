@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://rohanh.github.io"
-title: RohanH Wesite # site's title
+title: RohanH blog all about technology,lifestyle and expert views. # site's title
 description: "Blog about technology,gadgets and daily to daily life." # used by search engines
 
 remote_theme: Sylhare/Type-on-Strap
@@ -16,7 +16,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Hi All, This is Rohan trying some basic.</p>
+     <p>Hi Welcome to my little space on the internet.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Copyrighted by RohanH 2018. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
