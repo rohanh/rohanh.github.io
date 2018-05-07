@@ -7,6 +7,6 @@ gallery_path: "assets/img/GalleryPics"
 tags: [Gallery, Photo]
 ---
 
-Collection of Photos by me.
+Collection of Photos by me. 
 
 {% include gallery.html gallery_path=page.gallery_path %}
