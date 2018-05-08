@@ -7,3 +7,5 @@ excerpt_separator: <!--more-->
 
 <img src="/assets/img/smartphonepost.jpg" alt="smartphone heading">
 
+Smartphone
+
