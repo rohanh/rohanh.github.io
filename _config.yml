@@ -49,7 +49,7 @@ theme_settings:
 
   # Scripts / Features
   google_analytics: UA-118749441-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: rohanh31
+  disqus_shortname: www-rohanh-com
   katex: true # Enable if using math markup
 
   special_page:
