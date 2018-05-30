@@ -1,8 +1,7 @@
---- 
-layout: bootstrap 
-title : Contact Me 
-permalink: /portfolio/
-subtitle: "Contact Me ." 
+---
+layout: bootstrap
+title : Contact Me
+permalink: /contactme/
+subtitle: "Contact Me ."
 feature-img: "assets/img/pexels/computer.jpeg"
 ---
-
