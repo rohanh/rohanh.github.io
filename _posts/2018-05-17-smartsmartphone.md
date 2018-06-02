@@ -21,7 +21,7 @@ indicate how many things can be possible with our dear "smartphone"</p>
 <li><span style="font-weight: bold; text-decoration: underline;">Camera</span>:
 How many of you remember carrying your high-end DSLR last
 time? It's common to spot people clicking almost everywhere ! and that
-too without DSLR ( thanks to Instagram ).&nbsp;</li>
+too without DSLR ( thanks to Instagram ).&nbsp;  <i class="fa fa-camera-retro fa-lg"></i> </li>
 </ul>
 <ul>
 <li><span style="font-weight: bold; text-decoration: underline;">MP3
