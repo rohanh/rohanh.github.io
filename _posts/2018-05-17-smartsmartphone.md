@@ -34,13 +34,13 @@ According to recent survey sale of calculators gone
 down by 72 %, Do I need to say anymore?&nbsp;</li>
 </ul>
 <ul>
-<li><i class="fa fa-map-marker-alt"></i><span style="font-weight: bold; text-decoration: underline;">GPS</span>:
+<li><i class="fa fa-map-marker"></i><span style="font-weight: bold; text-decoration: underline;">GPS</span>:
 Very much popular at the moment. Lost the plot. Is no one
 around to ask? No worries. Just open the map and navigate like a
 Columbus may be.</li>
 </ul>
 <ul>
-<li><i class="fa fa-scanner"></i><span style="font-weight: bold; text-decoration: underline;">Scanner</span>:
+<li><i class="fa fa-print"></i><span style="font-weight: bold; text-decoration: underline;">Scanner</span>:
 This has been a great alternative tool. Just click the
 image of receipts, tickets, ids, invoices, notes, cards and go on. Kill
 that ugly flatbed scanner.&nbsp;</li>
