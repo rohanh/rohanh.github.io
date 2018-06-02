@@ -52,7 +52,7 @@ drive decade ago? Not anymore. You can carry 1000 gigs of data easily (
 virtually ) and can be used anywhere anytime. Cool.</li>
 </ul>
 <ul>
-<li><i class="fa fa-clock"></i><span style="font-weight: bold; text-decoration: underline;">Clock/Alarm/Timer</span><span
+<li><span style="font-weight: bold; text-decoration: underline;">Clock/Alarm/Timer</span><span
 style="font-weight: bold;">:</span> Excuse me, Whats the time? highly
 replaced
 by "Ok Google, what is the time right now ?"&nbsp;</li>
@@ -66,5 +66,8 @@ customization is certainly cherry on the top.</li>
 </ul>
 <p>This is not the end. This is a just miniature version. There are
 many more and always will be.</p>
+<i class="fa fa-clock"></i>
+
+
 </body>
 </html>
