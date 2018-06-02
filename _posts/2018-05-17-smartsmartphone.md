@@ -66,7 +66,7 @@ customization is certainly cherry on the top.</li>
 </ul>
 <p>This is not the end. This is a just miniature version. There are
 many more and always will be.</p>
-<i class="fa fa-clock"></i>
+<i class="far far-clock"></i>
 
 
 </body>
