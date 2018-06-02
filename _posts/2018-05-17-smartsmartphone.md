@@ -52,7 +52,7 @@ drive decade ago? Not anymore. You can carry 1000 gigs of data easily (
 virtually ) and can be used anywhere anytime. Cool.</li>
 </ul>
 <ul>
-<li><i class="far fa-clock"></i><span style="font-weight: bold; text-decoration: underline;">Clock/Alarm/Timer</span><span
+<li><i class="far far-clock"></i><span style="font-weight: bold; text-decoration: underline;">Clock/Alarm/Timer</span><span
 style="font-weight: bold;">:</span> Excuse me, Whats the time? highly
 replaced
 by "Ok Google, what is the time right now ?"&nbsp;</li>
